@@ -1,6 +1,6 @@
 
 # Proyecto: Jugadores Más Valiosos de Transfermarkt
-![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Logo de GitHub](https://github.com/Sorti29/ETL-Transfermarkt/blob/main/PBI/PBI.PNG)
 
 Este proyecto tiene como objetivo obtener datos de jugadores de fútbol desde la API de Transfermarkt y almacenarlos en una base de datos PostgreSQL para su posterior análisis y visualización en Power BI.
 
