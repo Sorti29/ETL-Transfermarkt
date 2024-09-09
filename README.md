@@ -72,3 +72,7 @@ Si deseas contribuir a este proyecto, siéntete libre de abrir un pull request o
 ### Licencia
 
 Este proyecto se distribuye bajo la licencia MIT. Para más detalles, consulta el archivo LICENSE.
+
+### Imagen del Proyecto
+
+
